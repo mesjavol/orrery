@@ -7,3 +7,5 @@ An interactive 3D orrery of the solar system in a single page (`index.html`).
 - Drag to orbit, scroll or pinch to zoom, click a planet or its label to focus it. Keys: `1`–`9` planets, `0` or `Esc` the Sun, `M` the Moon, `Space` play/pause, `R` reverse.
 
 Uses three.js r128 from cdnjs. Planet sizes and the Moon's distance are enlarged so they can be seen.
+
+Live site (GitHub Pages, once switched on): https://mesjavol.github.io/orrery/
